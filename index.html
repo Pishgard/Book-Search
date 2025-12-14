@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Book Search</title>
+    <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+
+<body>
+    <div class="app">
+        <header>
+            <div class="logo">
+                <div class="mark">📚</div>
+                <div>
+                    <h1>Book Search</h1>
+                    <p class="lead">
+                        Search for books by title or topic and view complete details.
+                    </p>
+                </div>
+            </div>
+        </header>
+
+        <form id="searchForm" class="searchbox" onsubmit="return false;">
+            <input id="q" placeholder="Example: harry potter, romance, fantasy" autocomplete="off" />
+            <button id="searchBtn" type="button">Search</button>
+        </form>
+
+        <main>
+            <div id="status" class="status muted"></div>
+            <div id="currentCategory" class="current-category"></div>
+            <div id="subjects" class="meta"></div>
+            <div id="booksGrid" class="grid"></div>
+        </main>
+    </div>
+
+    <script src="assets/js/app.js"></script>
+</body>
+
+</html>
