@@ -1,5 +1,0 @@
-# lk1vxdrvo5xs1fnhkph8s9lqfrhrrphdam2
-# 9sr3068aetqwh5sh
-# 1maax2tckppc7dmvdnmaxnat58
-# vzqzih5si999nr6vr5ttaj8b2ry2k1g3p1sz
-# j1rpxrus073jacf24bwebryrmfxpu2gisjmgql3

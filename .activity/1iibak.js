@@ -1,4 +1,0 @@
-# cnoyat0b9013jl
-# if4bt3r1z9f4zwmhz6fhsbhsgzj4x5ttngq
-# ilwg6f1t1yo67349bbv5rii7fk3v98gth0
-# zectj6yt7fk0e3el9tt6yumyvt4a3y7jj

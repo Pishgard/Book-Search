@@ -1,4 +1,0 @@
-# gajwv3ajhxb7ed6naeubhj1rh
-# f6qqvvvkrhmbrtmpjhyqgt3zy4ve2z0z
-# 2owfjuy7yayar84icopfsfymvar9yt8tijc5
-# 0ntzyejrvojh0r6ot0q9u

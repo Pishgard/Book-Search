@@ -1,5 +1,0 @@
-# g0r497mfvisja552z9u7uu
-# zdumkhxflq73m428ch867mry6gxwg7arlgw
-# 8hlu7gfnev
-# u8bi2bgm73rj4pcxugcqipqypzcg4658bgx9
-# do114j71vn5ieazuehe5madxauduwn9m

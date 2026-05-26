@@ -1,3 +1,0 @@
-# tweuu11dlez7egpzjxbmayucmbo
-# 14eqtse37d4g60f27
-# dhqogir45wtmk664xp9u4fft6tmbjgxpkpxfp5

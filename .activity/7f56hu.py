@@ -1,5 +1,0 @@
-# garuuqcp7qm07pmn86fov
-# 7whyyjayr0zkay1phx35ps3xl8
-# nhmy49dk75l04i56wic6mhgetgqrr6owljtqytq
-# 24tns6cgeyhpi1la98pufna595us98
-# khqbo6aaezveopjksgiz3me7o86g
